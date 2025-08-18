@@ -7,13 +7,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "7f8c492fbf185c54",
-        "username": "admin",
-        "password": "admin1",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
